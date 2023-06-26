@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fff7d9e2-943f-45d8-a2dd-e77b5804ce0a" name="Changes" comment="Trabalho OK" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/../../../../trabalho_ver_final/trabalho_ver_final" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../trabalho_ver_final/trabalho_ver_final" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_contrato.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_filial.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_fun_comum.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_fun_comum_esp.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_funcionario.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_gerente.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_gerente_esp.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controladores/controlador_sistema.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/dao/dict_dao.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/entidade/contrato.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/telas/abstract_tela.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/telas/tela_cargo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/telas/tela_contrato.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/telas/tela_funcionarios.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/teste.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RWYI44JRqIFQT60rxG9WhB4jau" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Documents/GitHub/trab2.py",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\trab2.py" />
+      <recent name="D:\Downloads\trabalho_ver_final" />
+      <recent name="D:\Downloads\trabalho-pt2-master\trabalho-pt2-master\telas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff7d9e2-943f-45d8-a2dd-e77b5804ce0a" name="Changes" comment="" />
+      <created>1687367220901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687367220901</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Telas do Sistema principal finalizadas, Filial iniciada">
+      <created>1687454994173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687454994173</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Telas do Sistema principal finalizadas, Filial iniciada">
+      <created>1687455341040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455341040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Telas do Sistema principal finalizadas, Filial iniciada">
+      <created>1687487385765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687487385765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Telas do Sistema principal finalizadas, Filial iniciada">
+      <created>1687547430170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687547430170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Trabalho OK">
+      <created>1687731534957</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687731534957</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Telas do Sistema principal finalizadas, Filial iniciada" />
+    <MESSAGE value="Trabalho OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalho OK" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../trabalho_ver_final/trabalho_ver_final/telas/tela_funcionarios.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../trabalho_ver_final/trabalho_ver_final/telas/tela_filial.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
